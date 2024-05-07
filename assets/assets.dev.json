@@ -813,18 +813,6 @@
 		"contentURL": "https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt",
 		"supportURL": "https://github.com/olegwukr/polish-privacy-filters/issues"
 	},
-	"ROU-1": {
-		"content": "filters",
-		"group": "regions",
-		"off": true,
-		"title": "🇷🇴ro 🇲🇩md: Romanian Ad (ROad) Block List Light",
-		"tags": "ads romanian română moldavian moldovenească молдовеняскэ",
-		"lang": "ro",
-		"contentURL": [
-			"https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt"
-		],
-		"supportURL": "https://github.com/tcptomato/ROad-Block"
-	},
 	"RUS-0": {
 		"content": "filters",
 		"group": "regions",
